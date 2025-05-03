@@ -1,0 +1,2 @@
+Created a basic Grade Checker.
+where according to marks it will display the results.
